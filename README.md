@@ -1,8 +1,11 @@
-Weather is a simple weather forecast app which shows data of current weather and 7 day weather forecast.
+#### WeatherApp is a simple weather forecast app which shows data of current weather and 7 day weather forecast.
 
-### Screenshot
-![This is an image](https://i.hizliresim.com/2293u5u.jpg)
+### Screenshots
+The app background is light blue in the morning and dark in the evening
 
-App uses OpenWeather free api
+<img src="https://i.hizliresim.com/qmtiohh.jpg" width="300">  <img src="https://i.hizliresim.com/e1pb5mh.jpg" width="300">
+
+
+App uses OpenWeather api
 
 Design of icons source: https://www.flaticon.com/packs/weather-161
