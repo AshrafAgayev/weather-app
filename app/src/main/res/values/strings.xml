@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string-array name="langs">
+        <item>EN</item>
+        <item>AZ</item>
+        <item>TR</item>
+    </string-array>
+    
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

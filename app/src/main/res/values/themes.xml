@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Weather" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/transparent</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="actionBarTheme">@style/AppTheme.ActionBarTheme</item>
+
+<!--        <item name="android:windowFullscreen">true</item>-->
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AppTheme.ActionBarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <!-- THIS is where you can color the arrow and the overflow button! -->
+        <item name="colorControlNormal">@color/teal_700</item> <!-- sets the color for the back arrow -->
+        <item name="actionOverflowButtonStyle">@style/actionOverflowButtonStyle</item> <!-- sets the style for the overflow button -->
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:text">Salam</item>
+    </style>
+
+    <style name="actionOverflowButtonStyle" parent="@style/Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:layout_marginTop">100dp</item>
+        <item name="android:layout_margin">30dp</item>
+        <item name="color">@color/teal_200</item>
+    </style>
+</resources>
