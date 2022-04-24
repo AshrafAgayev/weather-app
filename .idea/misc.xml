@@ -6,10 +6,12 @@
         <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2045" />
         <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/drawable/background_white_round_corner.xml" value="0.148" />
         <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2045" />
-        <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/layout/activity_main.xml" value="0.315955766192733" />
+        <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/layout-land/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/layout-land/single_line.xml" value="0.25" />
+        <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/layout/appbar.xml" value="0.17346014492753623" />
         <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/layout/nav_header.xml" value="0.13802083333333334" />
-        <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/layout/single_line.xml" value="0.5" />
+        <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/layout/single_line.xml" value="0.25" />
         <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/menu/nav_header_menu.xml" value="0.22" />
         <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2165" />
         <entry key="..\:/Users/ashra/AndroidStudioProjects/Weather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2165" />
